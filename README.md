@@ -3,9 +3,9 @@
   About me:
   
  ♠️ Name: Augusto
- ♠️ Age: 19
- ♠️ Birthday: 28/07
- ♠️ Country: Brazil
+            ♠️ Age: 19
+            ♠️ Birthday: 28/07
+            ♠️ Country: Brazil
  
  ♠️ Programming languages I use: Python, JavaScript, C++
  
