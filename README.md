@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![](name-of-giphy.gif)
+![](cowboy-bebop-spike.gif)
