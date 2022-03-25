@@ -7,11 +7,9 @@
       ♠️ Birthday: 28/07
          ♠️ Country: Brazil
  
- ♠️ Programming languages I use: Python, JavaScript, C++
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto55&theme=tokyonight)
  
- ♠️ Discord: Augusto#0005
  
- ♠️ [My City Pop playlist](https://www.youtube.com/playlist?list=PL6Gs-JOdBG-nS_dpxutNZFj9DcNkUafyV)
   
   
 ![](cowboy-bebop-spike.gif)
