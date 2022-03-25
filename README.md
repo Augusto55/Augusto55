@@ -7,8 +7,8 @@
       ♠️ Birthday: 28/07
          ♠️ Country: Brazil
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto55&theme=tokyonight)
- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto55&hide=TeX&layout=compact&theme=tokyonight)
+
  
   
   
