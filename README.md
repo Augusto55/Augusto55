@@ -15,4 +15,3 @@
  ![]()
   
   
-![](cowboy-bebop-spike.gif)
